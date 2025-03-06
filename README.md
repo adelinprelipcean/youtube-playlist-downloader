@@ -7,3 +7,4 @@ It gets the data for every video in the playlist using pytube, then it automatic
 
 ![image](https://github.com/adelinprelipcean/youtube-playlist-downloader/assets/97390311/863fb3c3-e748-4c58-9dda-2c93288026ec)
 
+:)
