@@ -1,4 +1,4 @@
-# 📚 YouTube Playlist Downloader
+# 📚 Play.listed
 
 A desktop app to download and convert YouTube playlists to mp3 audio files.
 Built with Python and Tkinter, it’s a simple and user-friendly tool.
