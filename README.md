@@ -1,3 +1,5 @@
+# (OUTDATED)
+
 # 📚 Play.listed
 
 A desktop app to download and convert YouTube playlists to mp3 audio files.
