@@ -13,11 +13,10 @@ Built with Python and Tkinter, it’s a simple and user-friendly tool.
 
 ✅ Support for multiple video resolutions and audio bitrates
 
-|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  |                 **Python**                 |
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  |          **Python & Tkinter(GUI)**         |
 | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" width="40"/> |              **Tkinter** (GUI)             |
-|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" width="40"/>  |     **FFmpeg** (video/audio processing)    |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/> | **YouTube APIs** (via `pytube` or similar) |
+|  <img src="assets/ffmpeg.png" width="40"/>  |     **FFmpeg** (video/audio processing)    |
+|  <img src="assets/youtube.png" width="40"/> | **YouTube APIs** (via `pytube` or similar) |
 
 
 ![image](https://github.com/adelinprelipcean/youtube-playlist-downloader/assets/97390311/863fb3c3-e748-4c58-9dda-2c93288026ec)
