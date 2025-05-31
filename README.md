@@ -13,6 +13,8 @@ Built with Python and Tkinter, it’s a simple and user-friendly tool.
 
 ✅ Support for multiple video resolutions and audio bitrates
 
+## 🛠️ Built With
+
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  |          **Python & Tkinter(GUI)**         |
 | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------: |
 |  <img src="assets/ffmpeg.png" width="40"/>  |     **FFmpeg** (video/audio processing)    |
