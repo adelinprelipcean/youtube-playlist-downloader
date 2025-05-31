@@ -1,10 +1,65 @@
-# youtube-playlist-downloader
-Play.listed is an app that allows users to download an entire Youtube playlist by link in mp3 format.
+# 📚 YouTube Playlist Downloader
 
-It gets the data for every video in the playlist using pytube, then it automatically converts the .mp4 files into .mp3 format using moviepy.
+A desktop app to download and convert YouTube playlists to mp3 audio files.
+Built with Python and Tkinter, it’s a simple and user-friendly tool.
 
---BE SURE YOUR PLAYLIST IS UNLISTED OR PUBLIC, OTHERWISE THE PROGRAM WON'T WORK PROPERLY--
+## ✨ Features
+
+✅ Download entire YouTube playlists
+
+✅ Convert videos to audio files (MP3)
+
+✅ Simple graphical user interface (Tkinter)
+
+✅ Support for multiple video resolutions and audio bitrates
+
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  |                 **Python**                 |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" width="40"/> |              **Tkinter** (GUI)             |
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" width="40"/>  |     **FFmpeg** (video/audio processing)    |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/> | **YouTube APIs** (via `pytube` or similar) |
+
 
 ![image](https://github.com/adelinprelipcean/youtube-playlist-downloader/assets/97390311/863fb3c3-e748-4c58-9dda-2c93288026ec)
 
+---
+
+## ⚙️ Installation
+
+Follow these steps to set up and run the project:
+
+1️⃣ Clone the repository
+```bash
+git clone https://github.com/adelinprelipcean/youtube-playlist-downloader.git
+cd youtube-playlist-downloader
+```
+2️⃣ Create and activate a virtual environment
+# On macOS/Linux:
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+On Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate.bat
+```
+3️⃣ Install required dependencies
+```bash
+pip install -r requirements.txt
+```
+4️⃣ Run the app
+```basg
+python main.py
+```
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 📞 Contact
+
+Feel free to reach out to me at: aamoviescontact@gmail.com.
 
