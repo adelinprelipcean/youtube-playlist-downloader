@@ -1,0 +1,11 @@
+
+buildenv
+venv
+env
+dist
+build
+.spec
+.exe
+__pycache__
+.pyc
+.vscode

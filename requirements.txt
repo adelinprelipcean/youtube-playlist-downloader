@@ -1,3 +1,6 @@
-customtkinter==5.2.0
-moviepy==1.0.3
-pytube==15.0.0
+customtkinter
+moviepy
+pytube
+Pillow
+numpy
+pytubefix
